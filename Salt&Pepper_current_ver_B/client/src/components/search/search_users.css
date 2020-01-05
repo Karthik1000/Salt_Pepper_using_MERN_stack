@@ -1,0 +1,30 @@
+.viewrectop {
+  background-color: #f3c51f;
+  height: 40vh;
+  text-align: center;
+}
+.viewrectop_cont {
+  font-family: futura Md BT;
+  font-size: larger;
+  padding-top: 7%;
+}
+.searchres_text {
+  border: none;
+  border-bottom: 1px solid black;
+  text-align: center;
+  width: 50%;
+  margin-bottom: 12%;
+  height: 51px;
+  text-decoration: none;
+  color: black;
+  background-color: #fff0;
+}
+#search_res {
+  background-color: white;
+}
+.small {
+  font-size: small;
+}
+#black {
+  color: black;
+}

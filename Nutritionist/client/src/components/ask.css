@@ -1,0 +1,27 @@
+.uptop {
+  background-image: linear-gradient(to left, #f7132a, #a01a28);
+  height: 25vh;
+}
+.uptop_cont {
+  font-family: "Azo Sans";
+  font-weight: bolder;
+  font-size: 8vh;
+  color: white;
+  padding-top: 5%;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.form-control {
+  width: 80%;
+}
+.renner {
+  font-family: "Renner*";
+}
+.larger {
+  font-size: larger;
+}
+.docbtn_1 {
+  padding-top: 3%;
+}

@@ -1,0 +1,99 @@
+.outheader {
+  font-family: Futura Md BT;
+  font-size: xx-large;
+}
+.headerbg {
+  background-color: #eaeaea;
+  min-height: 55vh;
+}
+.outheaderbgy {
+  background-color: #f3c51f;
+  padding: 3%;
+  min-height: 50vh;
+}
+.center {
+  text-align: center;
+}
+.right {
+  text-align: right;
+}
+.left {
+  text-align: left;
+}
+.outhr {
+  margin: 0px;
+  border: 1px solid black;
+  width: 15%;
+  margin-top: 1%;
+}
+.outhr3 {
+  margin: 0px;
+  border: 1px solid black;
+  width: 23%;
+}
+.leftmargin {
+  margin-left: 5%;
+}
+.arrow {
+  font-size: small;
+}
+.row {
+  margin: 0px;
+}
+.outrecname {
+  font-family: karla;
+  font-size: medium;
+}
+.outingredcontent {
+  font-family: karla;
+  font-size: 15px;
+}
+.container {
+  max-width: 1270px;
+  width: 1240px;
+}
+.outheader3 {
+  padding: 3%;
+  font-family: Futura Md BT;
+  font-size: xx-large;
+}
+.karla {
+  font-family: karla;
+}
+.futura {
+  font-family: Futura Md BT;
+}
+.outaddress {
+  font-size: 15px;
+  font-family: karla;
+}
+.outbtn {
+  padding: 10px;
+  background-color: #f3c51f;
+  color: black;
+  font-family: karla;
+  font-size: medium;
+  border: none;
+  text-decoration: none;
+  margin-left: 15px;
+}
+.outingredient {
+  margin-bottom: 15px;
+}
+.outimg1 {
+  width: 100%;
+}
+.outtop {
+  background-color: #f3c51f;
+  font-family: futura Md BT;
+  font-size: xxx-large;
+  height: 40vh;
+  text-align: center;
+}
+.outtop_cont {
+  padding-top: 7%;
+}
+.outhr1 {
+  width: 30%;
+  border: 1px solid black;
+}

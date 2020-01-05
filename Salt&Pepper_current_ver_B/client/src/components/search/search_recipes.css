@@ -1,0 +1,92 @@
+.viewrectop {
+  background-color: #f3c51f;
+  height: 40vh;
+  text-align: center;
+}
+.viewrectop_cont {
+  font-family: futura Md BT;
+  font-size: larger;
+  padding-top: 7%;
+}
+.searchres_text {
+  border: none;
+  border-bottom: 1px solid black;
+  text-align: center;
+  width: 50%;
+  margin-bottom: 12%;
+  height: 51px;
+  text-decoration: none;
+  color: black;
+  background-color: #fff0;
+}
+#search_res {
+  background-color: white;
+}
+.dash_img1 {
+  width: 145%;
+  margin-left: -20%;
+}
+.dash_img_text {
+  font-family: karla;
+  margin-top: 6%;
+  font-size: 20px;
+  margin-left: 3%;
+}
+.dash_width {
+  background-color: white;
+  width: 50%;
+  height: 108%;
+  margin: auto;
+}
+.dash_img2 {
+  width: 145%;
+  margin-left: -20%;
+  height:210px;
+  z-index: -1;
+}
+.dash_rc_bg {
+  font-family: karla;
+  font-size: 14px;
+  z-index: 1;
+  position: relative;
+  bottom: 80px;
+  background-color: #f4c613;
+  height: 100px;
+  border-radius: 15px;
+}
+.dash_rc_c1 {
+  padding-top: 5%;
+  margin-left: 34%;
+  font-size: small;
+}
+
+.dash_rc_c2 {
+  padding-left: 5%;
+  padding-top: 0%;
+}
+
+.dot {
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 2;
+  background-color: white;
+  position: relative;
+  bottom: 42px;
+  height: 55px;
+  width: 55px;
+  text-align: center;
+  margin: 2%;
+}
+
+.dash_avatar {
+  position: relative;
+  top: 40%;
+}
+
+.dashupload {
+  color: black;
+  text-decoration: none;
+}
+.search_row{
+    padding:0px;
+}

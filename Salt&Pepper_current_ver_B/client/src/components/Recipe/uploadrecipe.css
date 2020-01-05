@@ -1,0 +1,27 @@
+.uptop {
+  background-color: #f3c51f;
+  font-family: futura Md BT;
+  font-size: xxx-large;
+  height: 40vh;
+  text-align: center;
+}
+.uptop_cont {
+  padding-top: 7%;
+}
+.uphr1 {
+  width: 30%;
+  border: 1px solid black;
+}
+.row {
+  margin: 0px;
+}
+.label {
+  font-family: Futura Md BT;
+  font-size: large;
+}
+textarea.form-control {
+  height: "inherit";
+}
+.karla{
+  font-family: karla;
+}

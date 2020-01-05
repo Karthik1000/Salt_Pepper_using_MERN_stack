@@ -1,0 +1,39 @@
+.uptop_cont {
+  font-family: "Azo Sans";
+  font-weight: bolder;
+  font-size: 8vh;
+  color: white;
+  padding-top: 5%;
+}
+.hippo {
+  font-weight: bolder;
+  font-size: 8vh;
+  color: white;
+}
+.uptop {
+  background-image: linear-gradient(to left, #7c1ba8, #510d66);
+  height: 25vh;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.label {
+  font-family: "Renner*";
+  font-size: large;
+}
+.form-control {
+  width: 80%;
+}
+.description {
+  height: 45vh;
+}
+.btn-outline-info:hover {
+  color: #fff;
+  background-color: #641383;
+  border-color: #390b4b;
+}
+.btn-outline-info {
+  color: #390b4b;
+  border-color: #390b4b;
+}

@@ -1,0 +1,34 @@
+.navbar a {
+  color: white;
+  text-decoration: none;
+}
+.nav-link {
+  color: white;
+}
+
+.nav-link:hover {
+  color: white;
+}
+.navbar {
+  padding-bottom: 0px;
+  padding-top: 0px;
+}
+.nav-item {
+  width: 33.33%;
+  text-align: center;
+  color: white;
+  padding: 0px;
+}
+
+.nav-item:hover {
+  color: white;
+}
+.dropdown-menu {
+  background-color: black;
+}
+.karla {
+  font-family: karla;
+}
+#nav_white {
+  color: white;
+}

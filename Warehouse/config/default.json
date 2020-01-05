@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://nischal:nischal@cluster0-zwokd.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettoken"
+}

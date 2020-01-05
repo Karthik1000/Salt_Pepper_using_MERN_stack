@@ -1,0 +1,145 @@
+.dashboard_bg {
+  position: relative;
+  background: url('https://i.ibb.co/ynJCRzW/Background-feed-01.png') repeat;
+  border: '0';
+  background-size: cover;
+}
+
+.row {
+  margin: 0px;
+}
+#dash_link_rec {
+  color: black;
+}
+.dashbtns1 {
+  background-color: white;
+  border: none;
+}
+
+.dashbtns2 {
+  background-color: white;
+  border: none;
+}
+.pasta {
+  background: url('https://i.ibb.co/gRg0hLx/4240-compd.jpg') no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  height: 55vh;
+}
+#uploadrec_dash {
+  color: white;
+}
+.Drow1col1,
+.Drow1col2 {
+  font-family: karla;
+  font-size: small;
+  padding-top: 4%;
+}
+
+.Drow1col1 {
+  text-align: right;
+}
+.Drow1col2 {
+  text-align: left;
+}
+.Drow2col2,
+.Drow2col3,
+.Drow2col4,
+.Drow2col1 {
+  font-family: Futura Md BT;
+  color: white;
+  padding-top: 6%;
+  font-size: xx-large;
+}
+
+.Drow2col1 {
+  font-size: xxx-large;
+  padding-top: 2%;
+}
+
+.center {
+  text-align: center;
+}
+
+.Drow1 {
+  margin-top: 5px;
+  height: 30%;
+}
+.Drow2 {
+  height: 70%;
+}
+
+.Drow3 {
+  padding-left: 13%;
+}
+
+.Drowcol5 {
+  text-align: right;
+}
+.Drowcol1 {
+  text-align: left;
+}
+.dash_img1 {
+  width: 145%;
+  margin-left: -20%;
+}
+.dash_img_text {
+  font-family: karla;
+  margin-top: 6%;
+  font-size: 20px;
+  margin-left: 3%;
+}
+.dash_width {
+  background-color: white;
+  width: 50%;
+  height: 108%;
+  margin: auto;
+}
+.dash_img2 {
+  width: 145%;
+  margin-left: -20%;
+  z-index: -1;
+}
+.dash_rc_bg {
+  font-family: karla;
+  font-size: 14px;
+  z-index: 1;
+  position: relative;
+  bottom: 80px;
+  background-color: #f4c613;
+  height: 100px;
+  border-radius: 15px;
+}
+.dash_rc_c1 {
+  padding-top: 5%;
+  margin-left: 34%;
+  font-size: small;
+}
+
+.dash_rc_c2 {
+  padding-left: 5%;
+  padding-top: 0%;
+}
+
+.dot {
+  border-radius: 50%;
+  display: inline-block;
+  z-index: 2;
+  background-color: white;
+  position: relative;
+  bottom: 42px;
+  height: 55px;
+  width: 55px;
+  text-align: center;
+  margin: 2%;
+}
+
+.dash_avatar {
+  position: relative;
+  top: 40%;
+}
+
+.dashupload {
+  color: black;
+  text-decoration: none;
+}

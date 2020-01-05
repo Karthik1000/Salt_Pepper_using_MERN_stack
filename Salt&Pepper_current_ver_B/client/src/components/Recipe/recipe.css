@@ -1,0 +1,89 @@
+.viewrectop {
+  background-color: #f3c51f;
+  font-family: futura Md BT;
+  font-size: xxx-large;
+  height: 40vh;
+  text-align: center;
+}
+.viewrecbot {
+  background-color: white;
+}
+.viewrectop_cont {
+  padding-top: 7%;
+}
+.viewrechr1 {
+  width: 30%;
+  border: 1px solid black;
+}
+.viewrow1col1 {
+  text-align: right;
+  font-family: karla;
+  font-size: initial;
+}
+.viewrow1col2 {
+  text-align: center;
+  font-family: karla;
+  font-size: initial;
+}
+.viewrow1col3 {
+  text-align: left;
+  font-family: karla;
+  font-size: initial;
+}
+.viewrecingred {
+  font-family: Futura Md BT;
+  font-size: xx-large;
+}
+.viewrecingredcont {
+  font-family: karla;
+  font-size: medium;
+}
+.viewrechr2 {
+  width: 7%;
+  border: 1px solid black;
+  margin: 0px;
+  margin-top: 4px;
+  margin-left: 8px;
+}
+.viewrecimg1 {
+  width: 20%;
+}
+.viewrecingredcontainer1 {
+  background-color: #eaeaea;
+  padding: 2%;
+}
+.viewrecingredcontainer2 {
+  padding: 2%;
+}
+#mycarousel {
+  width: 100%;
+  height: 80vh;
+}
+.container {
+  min-width: 1180px;
+}
+.viewrecimgs {
+  width: 100%;
+  height: 100vh;
+}
+.carousel-inner {
+  width: 100%;
+  height: 100%;
+}
+.viewrecbtn {
+  border: none;
+  text-decoration: none;
+  color: white;
+  background-color: black;
+  padding: 10px;
+  font-family: karla;
+  font-size: medium;
+  width: 70%;
+}
+.viewrecimg2 {
+  width: 110%;
+}
+.viewrecdate {
+  font-family: futura Md BT;
+  font-size: large;
+}

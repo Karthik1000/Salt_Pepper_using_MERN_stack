@@ -1,0 +1,82 @@
+.row1 {
+  position: absolute;
+  top: 20%;
+  margin-right: 0%;
+}
+.row1col1 {
+  left: 5%;
+}
+.logo {
+  alt: 'Logo-01';
+  border: '0';
+  width: 77%;
+}
+
+.row1col2 {
+  height: inherit;
+  position: relative;
+  text-align: center;
+  padding-top: 3%;
+  padding-right: 11%;
+  padding-left: 5%;
+}
+.futura {
+  font-family: futura Md BT;
+  font-size: 25pt;
+}
+.karla {
+  font-family: karla;
+}
+.row2 {
+  position: absolute;
+  top: 80%;
+  margin-right: 0%;
+  width: 100%;
+}
+.row2col1 {
+  text-align: right;
+  padding: 0%;
+}
+.signupbtn {
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  padding-left: 3.5%;
+  padding-right: 3.5%;
+  background-color: white;
+  color: black;
+  border: none;
+  border-radius: 0px;
+}
+.row2col2 {
+  text-align: left;
+  padding: 0%;
+}
+.loginbtn {
+  padding-top: 0.5%;
+  padding-bottom: 0.5%;
+  padding-left: 3.5%;
+  padding-right: 3.5%;
+  background-color: black;
+  color: white;
+  border: none;
+}
+.splashscreen {
+  background: url('https://i.ibb.co/4Ky0myB/Background-01.png') no-repeat;
+  background-size: cover;
+}
+.landing_bg {
+  position: relative;
+  background: url('https://i.ibb.co/4Ky0myB/Background-01.png') no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.dropdown-toggle::after {
+  display: inline-block;
+  margin-left: 0.255em;
+  border-top: 0.3em solid;
+  border-right: 0.3em solid transparent;
+  border-bottom: 0;
+  border-left: 0.3em solid transparent;
+  vertical-align: middle;
+}

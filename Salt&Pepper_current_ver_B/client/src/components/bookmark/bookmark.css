@@ -1,0 +1,41 @@
+.myrectop {
+  background-color: #f3c51f;
+  font-family: futura Md BT;
+  font-size: xxx-large;
+  height: 40vh;
+  text-align: center;
+}
+#book_view_rec {
+  color: black;
+}
+.myrecbot {
+  background-color: white;
+}
+.myrectop_cont {
+  padding-top: 7%;
+}
+.myrechr1 {
+  width: 30%;
+  border: 1px solid black;
+}
+.myrecimg1 {
+  z-index: 1;
+  width: 20%;
+  position: absolute;
+  margin-left: 68%;
+  margin-top: -10%;
+}
+.rectitle {
+  font-family: futura Md BT;
+  font-size: xx-large;
+}
+.reccuisine {
+  font-family: karla;
+  font-size: large;
+}
+.myrecsalt {
+  width: 65%;
+}
+.myrechr2 {
+  border-top: 3px dashed #000000bd;
+}
