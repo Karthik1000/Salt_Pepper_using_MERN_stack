@@ -29,7 +29,7 @@
     "multer-storage-cloudinary": "^2.2.1",
     "multiselect-dropdown-react": "^1.0.5",
     "njwt": "^1.0.0",
-    "nodemailer": "^6.4.1",
+    "nodemailer": "^6.4.16",
     "react": "^16.12.0",
     "react-alert": "^6.0.0",
     "react-alert-template-oldschool-dark": "^1.0.1",
